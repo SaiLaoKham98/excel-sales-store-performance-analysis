@@ -48,6 +48,17 @@ The analysis addresses six key business questions:
 
 The project uses a Power Pivot Data Model with a central sales fact table and supporting lookup tables.
 
+### Power Pivot Relationship Diagram
+
+![Power Pivot Data Model](screenshots/data-model.png)
+
+The data model connects transactional sales records
+with date, product, store, and manager reference tables.
+
+This structure supports consistent reporting across
+business dimensions using DAX measures.
+
+
 **Main tables:**
 
 - `SalesRaw` — Transaction-level sales data
