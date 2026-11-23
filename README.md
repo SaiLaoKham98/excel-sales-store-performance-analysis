@@ -65,6 +65,9 @@ The manager and commission data are also incorporated into the model using Power
 
 ## 📈 Dashboard 1: Executive Sales & Store Performance
 
+![Executive Sales Dashboard](screenshots/executive-sales-dashboard.png)
+  
+
 This interactive dashboard provides an overview of sales performance, profitability, and store operations.
 
 **Key features:**
@@ -84,6 +87,9 @@ This interactive dashboard provides an overview of sales performance, profitabil
 
 ## 📊 Dashboard 2: Product, Promotion & Manager Performance
 
+![Product, Promotion and Manager Dashboard](screenshots/product-manager-dashboard.png)
+  
+
 This dashboard provides a more detailed view of the business's revenue drivers and operational performance.
 
 **Key features:**
@@ -101,6 +107,9 @@ This dashboard provides a more detailed view of the business's revenue drivers a
 ---
 
 ## 💡 Key Business Insights
+
+![Business Insights](screenshots/business-insights.png)
+  
 
 The following findings are based on the full-period analysis covering 2018–2019.
 
