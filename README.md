@@ -173,7 +173,7 @@ excel-sales-store-performance-analysis/
 │
 ├── README.md
 │
-├── Sales_Store_Performance_Analysis.xlsx
+├── Sales_Store_Performance_Analysis.zip
 │
 ├── screenshots/
 │   ├── executive-sales-dashboard.png
