@@ -201,6 +201,12 @@ The project demonstrates how Excel can be used as a business intelligence and de
 
 ---
 
+## 📥 Download the Excel Dashboard
+
+[**Download the Excel Portfolio Workbook**](Sales_Store_Performance_Analysis.zip)
+
+> **Note:** Open the workbook in Microsoft Excel Desktop for the full Power Pivot, slicer, timeline, and interactive dashboard experience. Refreshing Power Query connections may require access to the original source files.
+
 ## 📬 Feedback
 
 Feedback and suggestions from data professionals, analysts, and recruiters are welcome.
